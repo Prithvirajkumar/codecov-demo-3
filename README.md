@@ -1,3 +1,3 @@
-# codecov-demo
-This repository is meant to show the features and functionalities of Codecov. You can follow along [here](https://docs.codecov.com/docs/codecov-tutorial).
-# codecov-demo-3
+[![codecov](https://codecov.io/gh/Prithvirajkumar/codecov-demo-3/graph/badge.svg?token=xCDsKApXt0)](https://codecov.io/gh/Prithvirajkumar/codecov-demo-3)
+
+Attempt - 3647
